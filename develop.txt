@@ -1,2 +1,2 @@
 branch - develop
-point - 6
+point - 7
