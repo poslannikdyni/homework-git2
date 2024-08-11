@@ -1,2 +1,2 @@
 branch - release
-point - 4
+point - 5
