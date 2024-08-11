@@ -1,2 +1,2 @@
 branch - feature-a
-point - 3
+point - 4
